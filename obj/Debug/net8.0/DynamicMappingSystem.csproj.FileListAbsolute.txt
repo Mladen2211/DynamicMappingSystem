@@ -1,0 +1,14 @@
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.AssemblyInfoInputs.cache
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.AssemblyInfo.cs
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.csproj.CoreCompileInputs.cache
+C:\private\DynamicMappingSystem\bin\Debug\net8.0\DynamicMappingSystem.exe
+C:\private\DynamicMappingSystem\bin\Debug\net8.0\DynamicMappingSystem.deps.json
+C:\private\DynamicMappingSystem\bin\Debug\net8.0\DynamicMappingSystem.runtimeconfig.json
+C:\private\DynamicMappingSystem\bin\Debug\net8.0\DynamicMappingSystem.dll
+C:\private\DynamicMappingSystem\bin\Debug\net8.0\DynamicMappingSystem.pdb
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.dll
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\refint\DynamicMappingSystem.dll
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.pdb
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\DynamicMappingSystem.genruntimeconfig.cache
+C:\private\DynamicMappingSystem\obj\Debug\net8.0\ref\DynamicMappingSystem.dll

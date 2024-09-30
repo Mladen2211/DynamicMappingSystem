@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\private\\DynamicMappingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\mapping\\mapphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:mapping\\mapphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\dynamic_mapping_system_documentation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:dynamic_mapping_system_documentation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\mapping\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:mapping\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\mapping\\mappers\\googletodirs21reservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:mapping\\mappers\\googletodirs21reservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\mapping\\mappers\\dirs21togooglereservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:mapping\\mappers\\dirs21togooglereservationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\datamodels\\dirs21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:datamodels\\dirs21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|c:\\private\\dynamicmappingsystem\\datamodels\\google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23CF408-1C05-4DB6-9E20-7F79235D732D}|DynamicMappingSystem.csproj|solutionrelative:datamodels\\google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dynamic_Mapping_System_Documentation.md",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\Dynamic_Mapping_System_Documentation.md",
+              "RelativeDocumentMoniker": "Dynamic_Mapping_System_Documentation.md",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\Dynamic_Mapping_System_Documentation.md",
+              "RelativeToolTip": "Dynamic_Mapping_System_Documentation.md",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwI8AAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-30T11:19:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappHandler.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\Mapping\\MappHandler.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappHandler.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\Mapping\\MappHandler.cs",
+              "RelativeToolTip": "Mapping\\MappHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:26:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoogleToDIRS21ReservationMapper.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\Mapping\\Mappers\\GoogleToDIRS21ReservationMapper.cs",
+              "RelativeDocumentMoniker": "Mapping\\Mappers\\GoogleToDIRS21ReservationMapper.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\Mapping\\Mappers\\GoogleToDIRS21ReservationMapper.cs",
+              "RelativeToolTip": "Mapping\\Mappers\\GoogleToDIRS21ReservationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:26:12.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DIRS21ToGoogleReservationMapper.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\Mapping\\Mappers\\DIRS21ToGoogleReservationMapper.cs",
+              "RelativeDocumentMoniker": "Mapping\\Mappers\\DIRS21ToGoogleReservationMapper.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\Mapping\\Mappers\\DIRS21ToGoogleReservationMapper.cs",
+              "RelativeToolTip": "Mapping\\Mappers\\DIRS21ToGoogleReservationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:25:32.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\Mapping\\IMapper.cs",
+              "RelativeDocumentMoniker": "Mapping\\IMapper.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\Mapping\\IMapper.cs",
+              "RelativeToolTip": "Mapping\\IMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:24:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Google.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\DataModels\\Google.cs",
+              "RelativeDocumentMoniker": "DataModels\\Google.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\DataModels\\Google.cs",
+              "RelativeToolTip": "DataModels\\Google.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:21:41.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DIRS21.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\DataModels\\DIRS21.cs",
+              "RelativeDocumentMoniker": "DataModels\\DIRS21.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\DataModels\\DIRS21.cs",
+              "RelativeToolTip": "DataModels\\DIRS21.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:20:53.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\private\\DynamicMappingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\private\\DynamicMappingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:59:13.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
